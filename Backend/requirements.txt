@@ -1,0 +1,19 @@
+# Flask and extensions
+Flask==3.0.0
+Flask-PyMongo==2.3.0
+Flask-CORS==4.0.0
+flask-jwt-extended==4.6.0
+
+# Database
+pymongo==4.6.1
+pymongo[srv]
+
+# Security
+bcrypt==4.1.2
+python-dotenv==1.0.0
+
+# Utilities
+PyJWT==2.8.0
+
+# YouTube video extraction
+yt-dlp>=2024.1.0
