@@ -150,7 +150,7 @@ export default function LoginScreen({ navigation }) {
                 {/* Header */}
                 <View style={styles.header}>
                     <Text style={styles.logo}>🎬</Text>
-                    <Text style={styles.title}>Video App</Text>
+                    <Text style={styles.title}>VeilPlay</Text>
                     <Text style={styles.subtitle}>Sign in to continue</Text>
                 </View>
 

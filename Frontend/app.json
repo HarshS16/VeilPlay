@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VideoApp",
-    "slug": "video-app",
+    "name": "VeilPlay",
+    "slug": "veil-play",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
