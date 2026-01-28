@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">🎬 VeilPlay</h1>
-Demo Video - https://www.loom.com/share/a58051e25029449e9c799ebf1a902059
+<h2> Complete Demo Video - https://youtu.be/U34V_S2xpUk  </h2>
 <p align="center">
   <strong>A Secure Video Streaming Application with YouTube Abstraction</strong>
 </p>
